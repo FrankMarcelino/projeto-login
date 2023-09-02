@@ -20,6 +20,7 @@ Small devices (portrait tablets and large phones, 600px and up)
 
     section#login {
         width: 80vw;
+        height: 300px;
     
     }
 
@@ -46,6 +47,7 @@ Small devices (portrait tablets and large phones, 600px and up)
 
     section#login {
         width: 950px;
+        height: 350px;
     }
 
     section#login > div#imagem {
